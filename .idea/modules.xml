@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgentieTurism.iml" filepath="$PROJECT_DIR$/AgentieTurism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/AgentieTurism-Client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/AgentieTurism-Client_main.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/AgentieTurism-Client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/AgentieTurism-Client_test.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/AgentieTurism-Networking_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/AgentieTurism-Networking_main.iml" group="Networking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/AgentieTurism-Networking_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/AgentieTurism-Networking_test.iml" group="Networking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/AgentieTurism-Persistence_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/AgentieTurism-Persistence_main.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/AgentieTurism-Persistence_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/AgentieTurism-Persistence_test.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/AgentieTurism-Server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/AgentieTurism-Server_main.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/AgentieTurism-Server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/AgentieTurism-Server_test.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/AgentieTurism-Services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/AgentieTurism-Services_main.iml" group="Services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/AgentieTurism-Services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/AgentieTurism-Services_test.iml" group="Services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgentieTurism_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AgentieTurism_main.iml" group="AgentieTurism" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgentieTurism_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AgentieTurism_test.iml" group="AgentieTurism" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client.iml" filepath="$PROJECT_DIR$/.idea/modules/Client.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/Client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/Client_main.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/Client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/Client_test.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking.iml" group="Networking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Networking_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Networking_main.iml" group="Networking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Networking_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Networking_test.iml" group="Networking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/Persistence_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/Persistence_main.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/Persistence_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/Persistence_test.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server.iml" filepath="$PROJECT_DIR$/.idea/modules/Server.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/Server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/Server_main.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/Server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/Server_test.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services.iml" filepath="$PROJECT_DIR$/.idea/modules/Services.iml" group="Services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/Services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/Services_main.iml" group="Services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/Services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/Services_test.iml" group="Services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-1-AgentieTurism_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-1-AgentieTurism_main.iml" group="AgentieTurism" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-1-AgentieTurism_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-1-AgentieTurism_test.iml" group="AgentieTurism" />
+    </modules>
+  </component>
+</project>

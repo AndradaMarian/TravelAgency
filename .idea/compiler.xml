@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="AgentieTurism-Client_main" target="1.8" />
+      <module name="AgentieTurism-Client_test" target="1.8" />
+      <module name="AgentieTurism-Networking_main" target="1.8" />
+      <module name="AgentieTurism-Networking_test" target="1.8" />
+      <module name="AgentieTurism-Persistence_main" target="1.8" />
+      <module name="AgentieTurism-Persistence_test" target="1.8" />
+      <module name="AgentieTurism-Server_main" target="1.8" />
+      <module name="AgentieTurism-Server_test" target="1.8" />
+      <module name="AgentieTurism-Services_main" target="1.8" />
+      <module name="AgentieTurism-Services_test" target="1.8" />
+      <module name="AgentieTurism.AgentieTurism.main" target="1.8" />
+      <module name="AgentieTurism.AgentieTurism.test" target="1.8" />
+      <module name="AgentieTurism_main" target="1.8" />
+      <module name="AgentieTurism_test" target="1.8" />
+      <module name="Client_main" target="1.8" />
+      <module name="Client_test" target="1.8" />
+      <module name="demo-1-AgentieTurism_main" target="1.8" />
+      <module name="demo-1-AgentieTurism_test" target="1.8" />
+      <module name="Networking_main" target="1.8" />
+      <module name="Networking_test" target="1.8" />
+      <module name="Persistence_main" target="1.8" />
+      <module name="Persistence_test" target="1.8" />
+      <module name="Server_main" target="1.8" />
+      <module name="Server_test" target="1.8" />
+      <module name="Services_main" target="1.8" />
+      <module name="Services_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
